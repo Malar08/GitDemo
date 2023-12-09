@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 nbb
 new change
 after new change
+=======
+>>>>>>> parent of 4c0a91c (Updated File1.txt)
