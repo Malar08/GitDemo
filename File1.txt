@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
 nbb
 new change
 after new change
+=======
+nbb
+new change
+after new change
+>>>>>>> parent of 891e57e (made changes to file1)
